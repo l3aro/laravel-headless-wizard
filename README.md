@@ -72,7 +72,7 @@ php artisan wizard:make-step Onboarding PersonalInfo --order=1
 ## 📋 Requirements
 
 - PHP 8.4 or higher
-- Laravel 11.0 or 12.0
+- Laravel 11.0, 12.0, or 13.0
 
 ## 📊 Code Quality
 
